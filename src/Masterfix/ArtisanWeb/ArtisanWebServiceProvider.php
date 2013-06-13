@@ -19,6 +19,7 @@ class ArtisanWebServiceProvider extends ServiceProvider {
 	public function boot()
 	{
 		$this->package('masterfix/artisan-web');
+		include __DIR__.'/../../routes.php';
 	}
 
 	/**
