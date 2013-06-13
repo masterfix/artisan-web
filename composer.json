@@ -1,6 +1,7 @@
 {
     "name": "masterfix/artisan-web",
     "description": "Web interface for the Laravel 'artisan' utility",
+    "license": "MIT",
     "keywords": ["laravel"],
     "homepage": "https://github.com/masterfix/artisan-web",
     "authors": [
