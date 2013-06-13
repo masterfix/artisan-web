@@ -1,6 +1,8 @@
 {
     "name": "masterfix/artisan-web",
-    "description": "",
+    "description": "Web interface for the Laravel 'artisan' utility",
+    "keywords": ["laravel"],
+    "homepage": "https://github.com/masterfix/artisan-web",
     "authors": [
         {
             "name": "masterfix",
