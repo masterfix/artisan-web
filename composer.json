@@ -1,0 +1,23 @@
+{
+    "name": "masterfix/artisan-web",
+    "description": "",
+    "authors": [
+        {
+            "name": "masterfix",
+            "email": "padx@gmx.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Masterfix\\ArtisanWeb": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
