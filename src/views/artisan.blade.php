@@ -15,7 +15,7 @@ body {
   overflow: auto;
   margin: 10px 0px 0px 0px;
   padding: 0px;
-  line-height: 17px;
+  line-height: 15px;
 }
 
 @stop
